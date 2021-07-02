@@ -1,6 +1,6 @@
 ## Hi there! 
 
-![](https://komarev.com/ghpvc/?username=peterken674&label=PROFILE+VISITORS&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=peterken674&label=PROFILE+VISITORS&color=brightgreen&style=flat-square)
 
 I am a Fullstack Software Engineer, part-time graphic designer, and infosec enthusiast.
 
@@ -20,7 +20,7 @@ I am a Fullstack Software Engineer, part-time graphic designer, and infosec enth
 #### Brief GitHub Stats.
 
 <a href="#">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterken674&hide=less,html,css,scss&layout=compact&title_color=6cc644" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterken674&hide=less,html,css,scss&layout=compact&title_color=6cc644&border_radius=0" />
 </a>
 
 <a href="https://github.com/peterken674/github-readme-stats">

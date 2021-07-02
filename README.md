@@ -30,7 +30,7 @@ _TIP: If you can view the EQ bar, I am listening to the song right now._
 
 <hr>
 
-![](https://komarev.com/ghpvc/?username=peterken674&label=PROFILE+VISITORS&color=brightgreen&style=flat-square)
+![](https://komarev.com/ghpvc/?username=peterken674&label=PROFILE+VISITS&color=brightgreen&style=flat-square)
 
 
 

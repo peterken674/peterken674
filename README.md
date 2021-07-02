@@ -4,11 +4,6 @@
 
 I am a Fullstack Software Engineer, part-time graphic designer, and infosec enthusiast.
 
-<!--
-**peterken674/peterken674** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-<!-- Here are some ideas to get you started:
- -->
 - 🔭 I’m currently working on mastering Frontend Development
 - 🌱 I’m learning Flask and Django.
 - 📫 How to reach me: [peterken.ngugi@gmail.com](https://mailto:peterken.ngugi@gmail.com)
@@ -25,11 +20,11 @@ I am a Fullstack Software Engineer, part-time graphic designer, and infosec enth
 #### Brief GitHub Stats.
 
 <a href="#">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterken674&hide=less,html,css,scss&layout=compact" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterken674&hide=less,html,css,scss&layout=compact&title_color=6cc644" />
 </a>
 
 <a href="https://github.com/peterken674/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=peterken674&show_icons=true&count_private=true&hide=stars,issues&hide_title=true" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=peterken674&show_icons=true&count_private=true&hide=stars,issues&hide_title=true&icon_color=6cc644&border_radius=0" />
 </a>
 
 

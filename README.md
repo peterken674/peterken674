@@ -1,7 +1,5 @@
 ## Hi there! 
 
-![](https://komarev.com/ghpvc/?username=peterken674&label=PROFILE+VISITORS&color=brightgreen&style=flat-square)
-
 I am a Fullstack Software Engineer, part-time graphic designer, and infosec enthusiast.
 
 - 🔭 I’m currently working on mastering Frontend Development
@@ -29,6 +27,10 @@ _TIP: If you can view the EQ bar, I am listening to the song right now._
 <a href="https://github.com/peterken674/github-readme-stats">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=peterken674&show_icons=true&count_private=true&hide=stars,issues&hide_title=true&icon_color=6cc644&border_radius=0" />
 </a>
+
+<hr>
+
+![](https://komarev.com/ghpvc/?username=peterken674&label=PROFILE+VISITORS&color=brightgreen&style=flat-square)
 
 
 

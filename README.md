@@ -1,6 +1,6 @@
 ## Hi there! 
 
-I am a Fullstack Software Engineer, part-time graphic designer, and infosec enthusiast.
+So finally you found my profile. Feel free to clone, fork or star my projects. You can also raise issues or create PRs if you feel something could be better, and you can reach out to me on [Twitter](https://www.twitter.com/_peterken) in case you have any question regarding any project.
 
 - 🔭 I’m currently looking for a full stack software development or information security opportunity.
 - 🌱 I am always learning.

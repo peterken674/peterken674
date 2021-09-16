@@ -2,8 +2,8 @@
 
 So finally you found my profile. Feel free to clone, fork or star my projects. You can also raise issues or create PRs if you feel something could be better, and you can reach out to me on [Twitter](https://www.twitter.com/_peterken) in case you have any question regarding any project.
 
-- 🔭 I’m currently looking for a full stack software development or information security opportunity.
-- 🌱 I am always learning.
+- 🔭 I’m currentl looking for a full stack software development or information security opportunity. 
+- 🌱 I am always learning. Currently learning about smart contracts with DAML.
 - 📫 How to reach me: [peterken.ngugi@gmail.com](https://mailto:peterken.ngugi@gmail.com)
 - :mag_right: My resume: [peterken.tech](https://peterken.tech)
 - 🎧 I love music! Here's what I am currently listening to on Spotify:

@@ -3,7 +3,7 @@
 So finally you found my profile. Feel free to clone, fork or star my projects. You can also raise issues or create PRs if you feel something could be better, and you can reach out to me on [Twitter](https://www.twitter.com/_peterken) in case you have any question regarding any project.
 
 - 🔭 I’m currently working on a fullstack Django and Angular based Sacco Management System, as well as UI/UX for an upcoming product (Web and Mobile). 
-- 🌱 I am always learning. Currently learning about smart contracts with Daml<sup>TM</sup>.
+- 🌱 I am always learning. Currently learning more about UI/UX and Product Design.
 - 📫 How to reach me: [peterken.ngugi@gmail.com](https://mailto:peterken.ngugi@gmail.com)
 - :mag_right: My resume: [peterken.tech](https://peterken.tech)
 - 🎧 I love music! Here's what I am currently listening to on Spotify:

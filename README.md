@@ -6,12 +6,7 @@ So finally you found my profile. Feel free to clone, fork or star my projects. Y
 - 🌱 I am always learning. Currently learning more about UI/UX and Product Design.
 - 📫 How to reach me: [peterken.ngugi@gmail.com](https://mailto:peterken.ngugi@gmail.com)
 - :mag_right: My resume: [peterken.tech](https://peterken.tech)
-- 🎧 I love music! Here's what I am currently listening to on Spotify:
-
-[![Spotify](https://peterken-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/svxu5xnbjn49tz6w5vbudiyva?si=e4b46059c7404c56)
-
-_(TIP: If you can view the EQ bar, I am listening to the song right now.)_
-
+- 🎧 I love music, from most of the common genres, but I also do enjoy discovering new music.
 <hr>
 
 ## Brief GitHub Stats.

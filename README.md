@@ -2,11 +2,11 @@
 
 So finally you found my profile. Feel free to clone, fork or star my projects. You can also raise issues or create PRs if you feel something could be better, and you can reach out to me on [Twitter](https://www.twitter.com/_peterken) in case you have any question regarding any project.
 
-- 🔭 I’m currently working on a fullstack Django and Angular based Sacco Management System, as well as UI/UX for an upcoming product (Web and Mobile). 
-- 🌱 I am always learning. Currently learning more about UI/UX and Product Design.
+- 🔭 I’m currently working as a generalist designer with a great dev team over at [Ngamia Africa](https://www.ngamia.africa/)
+- 🌱 I am always learning. I'm urrently learning more about user research.
 - 📫 How to reach me: [peterken.ngugi@gmail.com](https://mailto:peterken.ngugi@gmail.com)
 - :mag_right: My resume: [peterken.tech](https://peterken.tech)
-- 🎧 I love music, from most of the common genres, but I also do enjoy discovering new music.
+- 🎧 I love music, from most of the common genres, but it's always fun to discover new music.
 <hr>
 
 ## Brief GitHub Stats.
@@ -18,6 +18,8 @@ So finally you found my profile. Feel free to clone, fork or star my projects. Y
 <a href="https://github.com/peterken674/github-readme-stats">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=peterken674&show_icons=true&count_private=true&hide=stars,issues&hide_title=true&icon_color=6cc644&border_radius=0" />
 </a>
+
+<hr>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)

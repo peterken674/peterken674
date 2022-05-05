@@ -1,6 +1,6 @@
 ## Hi there! 
 
-So finally you found my profile. Feel free to clone, fork or star my projects. You can also raise issues or create PRs if you feel something could be better, and you can reach out to me on [Twitter](https://www.twitter.com/_peterken) in case you have any question regarding any project.
+So finally you found my profile. Feel free to clone, fork or star my projects. You can also raise issues or create PRs if you feel something could be better, and you can reach out to me on [Twitter](https://www.twitter.com/_peterken) in case you have any question regarding any project. You can also just...you know, say hi.
 
 - 🔭 I’m currently working as a generalist designer with a great dev team over at [Ngamia Africa](https://www.ngamia.africa/)
 - 🌱 I am always learning. I'm urrently learning more about user research.

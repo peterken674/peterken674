@@ -6,7 +6,6 @@ So finally you found my profile. Feel free to clone, fork or star my projects. Y
 - 🌱 I am always learning. I'm urrently learning more about user research.
 - 📫 How to reach me: [peterken.ngugi@gmail.com](https://mailto:peterken.ngugi@gmail.com)
 - :mag_right: My resume: [peterken.tech](https://peterken.tech)
-- :books: Most recent read is [*UX for Lean Startups: Faster, Smarter User Experience Research and Design*](https://www.amazon.com/UX-Lean-Startups-Experience-Research/dp/1449334911) by Laura Klein
 - 🎧 I love music, from most of the common genres, but it's always fun to discover new music.
 <hr>
 

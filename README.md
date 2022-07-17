@@ -3,7 +3,7 @@
 So finally you found my profile. Feel free to clone, fork or star my projects. You can also raise issues or create PRs if you feel something could be better, and you can reach out to me on [Twitter](https://www.twitter.com/_peterken) in case you have any question regarding any project. You can also just...you know, say hi.
 
 - 🔭 I’m currently working as a generalist designer with a great dev team over at [Ngamia Africa](https://www.ngamia.africa/)
-- 🌱 I am always learning. I'm urrently learning more about user research.
+- 🌱 I am always learning something. Ask.
 - 📫 How to reach me: [peterken.ngugi@gmail.com](https://mailto:peterken.ngugi@gmail.com)
 - :mag_right: My resume: [peterken.tech](https://peterken.tech)
 - 🎧 I love music, from most of the common genres, but it's always fun to discover new music.

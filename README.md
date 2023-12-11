@@ -5,7 +5,6 @@ So finally you found my profile. Feel free to clone, fork or star my projects. Y
 - 🔭 I’m currently working as a generalist designer with a great dev team over at [Ngamia Africa](https://www.ngamia.africa/)
 - 🌱 I am always learning something. Ask.
 - 📫 How to reach me: [peterken.ngugi@gmail.com](https://mailto:peterken.ngugi@gmail.com)
-- :mag_right: My resume: [peterken674.github.io/resume](https://peterken674.github.io/resume)
 - 🎧 I love music, from most of the common genres, but it's always fun to discover new music.
 <hr>
 

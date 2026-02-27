@@ -4,7 +4,7 @@ I'm a **Product Engineer** — I design and code, and I build complete digital p
 
 Feel free to clone, fork, or star anything here. Raise issues, open PRs, or just say hi.
 
-📫 [peterken.ngugi@gmail.com](mailto:peterken.ngugi@gmail.com) · 🐦 [@_peterken](https://twitter.com/_peterken) · 💼 [LinkedIn](https://www.linkedin.com/in/peterken/) · 🌐 [peterken.vercel.app](https://peterken.vercel.app)
+📫 [peterken.ngugi@gmail.com](mailto:peterken.ngugi@gmail.com) 
 
 ---
 
